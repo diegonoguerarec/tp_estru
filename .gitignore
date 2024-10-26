@@ -1,0 +1,19 @@
+# Archivos generados
+bin/
+obj/
+
+# Archivos de usuario de Visual Studio
+.vs/
+*.user
+*.suo
+
+# Archivos de NuGet
+*.nupkg
+packages/
+
+# Configuraciones sensibles
+appsettings.Development.json
+appsettings*.json
+
+# Logs
+*.log
