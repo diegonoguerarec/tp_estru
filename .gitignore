@@ -17,3 +17,6 @@ appsettings*.json
 
 # Logs
 *.log
+
+# Para Java
+*.class
