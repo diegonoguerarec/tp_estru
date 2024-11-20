@@ -1,0 +1,22 @@
+Python
+Es necesario tener instalado python3
+Navegar hasta la carpeta de Python y escribir en la terminal "python3 <nombre_archivo>.py"
+
+Ruby
+Es necesario tener instalado Ruby
+Navegar hasta la carpeta de Ruby y escribir en la terminal "ruby <nombre_archivo>.rb"
+
+R
+Es necesario tener instalado R
+Navegar hasta la carpeta de R y escribir en la terminal "Rscript <nombre_archivo>.R"
+
+C#
+Es necesario tener instalado el SDK de .NET
+Navegar hasta la carpeta del problema y escribir en la terminal "dotnet run"
+
+Java
+Es necesario tener instalado el JDK
+Navegar hasta la carpeta de Java
+Compilar el programa escribiendo en la terminal "javac <nombre_archivo>.java"
+Ejecutar el programa escribiendo en la terminal "java <nombre_archivo>"
+
