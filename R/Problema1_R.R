@@ -4,7 +4,7 @@ cargar_datos <- function() {
         nombre = c("Diego", "Daniela", "Fiorella", "Ricardo", "Lucas", "Matias", "Andrea", "Maria"),
         edad = c(21, 19, 20, 22, 21, 18, 20, 24),
         calificacion = c(100, 90, 88, 66, 99, 45, 78, 97),
-        stringsAsFactors = FALSE 
+        stringsAsFactors = FALSE    
     )
     return (alumnos)
 }
